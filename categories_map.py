@@ -679,6 +679,7 @@ CMSSW_CATEGORIES = {
     "Validation/TrackerHits",
     "Validation/TrackerRecHits",
     "Validation/TrackingMCTruth",
+    "Utilities/RelMon",
   ],
   "externals": [
     "",
@@ -1352,7 +1353,6 @@ CMSSW_CATEGORIES = {
     "TrackingTools/TrajectoryState",
     "TrackingTools/TransientTrack",
     "TrackingTools/TransientTrackingRecHit",
-    "Utilities/RelMon",
   ],
   "simulation": [
     "BigProducts/Simulation",
