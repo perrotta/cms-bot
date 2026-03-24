@@ -96,6 +96,7 @@ CMSSW_L2 = {
     "atpathak": ["alca", "db"],
     "perrotta": ["alca", "db"],
     "arunhep": ["alca", "db"],
+    "EltonSh": ["alca", "db"],
     "JanChyczynski": ["alca", "db"],
     "Alejandro1400": ["alca", "db"],
     "kpedro88": ["simulation", "geometry", "fastsim"],
